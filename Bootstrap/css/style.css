@@ -1,0 +1,49 @@
+body{
+background: url("../image/00.jpg") no-repeat;
+background-size: cover;
+}
+.navv{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.btn2{
+  position:absolute;
+  left:0;
+  right:0;
+  top:280px;
+  bottom:0;
+  margin:auto;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.intro_inner{
+  width: 100%;
+  max-width: 880px;
+  margin: 0 auto;
+}
+.intro_title{
+  top: 1px;
+  right: 5px;
+  color: #fff;
+  font-size: 100px;
+  font-weight: 100px;
+  text-transform: uppercase;
+  position:absolute;
+  text-align: center;
+  margin:auto;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.sup_title{
+  top: 300px;
+  left: 350px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 100px;
+  text-transform: uppercase;
+  position:absolute;
+  text-align: center;
+  margin:auto;
+  font-family: 'Vujahday Script', cursive;
+}
+.container-fluid{
+  padding: 7% 15%;
+}
